@@ -1,8 +1,0 @@
-{
-  "name": "albergues-sngr",
-  "private": true,
-  "type": "module",
-  "description": "Extracción cada 6 horas de los alojamientos temporales de la SNGR para el especial El Niño de PRIMICIAS",
-  "scripts": { "extraer": "node scripts/extraer.mjs tmp/crudo.json" },
-  "dependencies": { "playwright": "1.48.2" }
-}
