@@ -1,0 +1,67 @@
+# Albergues de la SNGR para el especial El Niño (PRIMICIAS)
+# Cada 6 horas: extrae los alojamientos temporales del Visor Alístate Ecuador, los normaliza y publica en data/out/.
+# El cron de GitHub va en UTC: 00:17, 06:17, 12:17 y 18:17 UTC = 19:17, 01:17, 07:17 y 13:17 en Ecuador.
+# (Minuto 17 para evitar la congestión de la hora en punto; GitHub puede retrasar unos minutos las tareas programadas.)
+name: Albergues SNGR
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch: {}        # botón «Run workflow» para correrlo a mano
+
+permissions:
+  contents: write              # para hacer commit de data/out/
+
+concurrency:
+  group: albergues-sngr
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar Playwright (Chromium)
+        run: |
+          npm ci
+          npx playwright install --with-deps chromium
+
+      - name: Límites de parroquias (CNE 2025, repo de datos del especial)
+        run: |
+          mkdir -p tmp
+          curl -fsSL --retry 3 -o tmp/parroquias_2025.json \
+            https://raw.githubusercontent.com/tefaceli/fenomeno_nino/main/parroquias/parroquias_2025.json
+
+      - name: Extraer del Visor Alístate (con reintentos)
+        run: |
+          for i in 1 2 3; do
+            node scripts/extraer.mjs tmp/crudo.json && exit 0
+            echo "Intento $i falló; reintento en 60 s"; sleep 60
+          done
+          exit 1
+
+      - name: Procesar y validar
+        run: python scripts/procesar.py tmp/crudo.json tmp/parroquias_2025.json data/out
+
+      - name: Publicar si hay cambios
+        run: |
+          git config user.name  "albergues-sngr[bot]"
+          git config user.email "albergues-sngr@users.noreply.github.com"
+          git add data/out
+          if git diff --cached --quiet; then
+            echo "Sin cambios"
+          else
+            git commit -m "Albergues SNGR · $(jq -r '.implementados' data/out/estado.json) implementados · $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git push
+          fi
