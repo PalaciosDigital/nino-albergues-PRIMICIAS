@@ -1,10 +1,10 @@
 {
- "generado": "2026-11-10T07:25:25.758Z",
+ "generado": "2026-11-10T19:47:19.436Z",
  "fuente": "SNGR · Visor Alístate Ecuador – Evento El Niño",
  "fuente_url": "https://script.google.com/macros/s/AKfycbz6HA9kKLeksqm49YYPD7i3A40mMK6JwmoDc50vaiv4myVTk0lFYswqnE4IbJXmr9Lm/exec",
  "procesamiento": "PRIMICIAS",
  "descripcion": "Alojamientos temporales implementados (abiertos) por la SNGR. desde: fecha de implementación. personas/familias: cifra de la SNGR. canton/parroquia: CNE 2025 (punto en polígono). La SNGR no publica si están llenos.",
- "total": 10,
+ "total": 9,
  "albergues": [
   {
    "id": "IMPLEMENTADO_6",
@@ -36,63 +36,49 @@
   },
   {
    "id": "IMPLEMENTADO_10",
-   "nombre": "Calle Carlos Muñoz Vinueza en el sector Yanayuyo",
+   "nombre": "Calle Carlos Muñoz Vinueza en el sector Yanayuyo/Coliseo Municipal Pallatanga",
    "tipo": "implementado",
    "codpro": "06",
    "codpar": "6540",
    "canton": "PALLATANGA",
    "parroquia": "PALLATANGA",
-   "lat": -1.9975,
-   "lon": -78.963306,
+   "lat": -1.997499,
+   "lon": -78.963308,
    "personas": 124,
    "familias": 31,
    "desde": "2026-10-16"
   },
   {
    "id": "IMPLEMENTADO_15",
-   "nombre": "Barrio 10 de agosto/ casa de la Diosesis de Riobamba",
+   "nombre": "Barrio 10 de agosto/Casa de Diosesis de Riobamba",
    "tipo": "implementado",
    "codpro": "06",
    "codpar": "6420",
    "canton": "CUMANDA",
    "parroquia": "CUMANDA",
-   "lat": -2.208194,
-   "lon": -79.136111,
-   "personas": 98,
+   "lat": -2.208195,
+   "lon": -79.13611,
+   "personas": 93,
    "familias": 23,
    "desde": "2026-10-16"
   },
   {
-   "id": "IMPLEMENTADO_17",
-   "nombre": "Vía Baños - Puyo sector del estadio San Vicente",
-   "tipo": "implementado",
-   "codpro": "18",
-   "codpar": "5105",
-   "canton": "BAÑOS",
-   "parroquia": "BAÑOS",
-   "lat": -1.393806,
-   "lon": -78.414722,
-   "personas": 40,
-   "familias": 10,
-   "desde": "2026-10-16"
-  },
-  {
    "id": "IMPLEMENTADO_18",
-   "nombre": "Casa Hogar Centro Gerontológico Culacusig",
+   "nombre": "Sector Culacusig/Centro Gerontológico Culacusig",
    "tipo": "implementado",
    "codpro": "05",
    "codpar": "6450",
    "canton": "SIGCHOS",
    "parroquia": "SIGCHOS",
-   "lat": -0.705678,
-   "lon": -78.887817,
-   "personas": 60,
-   "familias": 15,
+   "lat": -0.698339,
+   "lon": -78.89302,
+   "personas": 38,
+   "familias": 9,
    "desde": "2026-10-16"
   },
   {
    "id": "IMPLEMENTADO_21",
-   "nombre": "CIUDAD ALFARO",
+   "nombre": "10 de Agosto Una sola calle/Centro Civico Ciudad Alfaro",
    "tipo": "implementado",
    "codpro": "13",
    "codpar": "5665",
@@ -102,11 +88,11 @@
    "lon": -80.663437,
    "personas": 300,
    "familias": 75,
-   "desde": "2026-09-19"
+   "desde": "2026-10-16"
   },
   {
    "id": "IMPLEMENTADO_22",
-   "nombre": "ESCUELA DE FORMARCION DEL CB DE SANTO DOMINGO",
+   "nombre": "ESCUELA DE FORMACION DEL CB DE SANTO DOMINGO",
    "tipo": "implementado",
    "codpro": "23",
    "codpar": "5730",
@@ -116,7 +102,7 @@
    "lon": -79.206532,
    "personas": 40,
    "familias": 10,
-   "desde": "2026-09-18"
+   "desde": "2026-10-16"
   },
   {
    "id": "IMPLEMENTADO_30",

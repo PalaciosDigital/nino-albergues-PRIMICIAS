@@ -2,6 +2,14 @@
  "descripcion": "Aperturas (implementado) y retiros de alojamientos temporales de la SNGR, del más reciente al más antiguo.",
  "cambios": [
   {
+   "hora": "2026-11-10T19:47:19.436Z",
+   "cambio": "retirado",
+   "id": "IMPLEMENTADO_17",
+   "nombre": "Vía Baños - Puyo sector del estadio San Vicente",
+   "codpro": "18",
+   "canton": "BAÑOS"
+  },
+  {
    "hora": "2026-11-09T22:25:57.905Z",
    "cambio": "implementado",
    "id": "IMPLEMENTADO_30",
