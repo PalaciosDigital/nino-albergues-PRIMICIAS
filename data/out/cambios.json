@@ -2,6 +2,14 @@
  "descripcion": "Aperturas (implementado) y retiros de alojamientos temporales de la SNGR, del más reciente al más antiguo.",
  "cambios": [
   {
+   "hora": "2026-11-11T19:39:38.009Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_23",
+   "nombre": "Antonio Sotomayor-6 de octubre y 13 enero, Escuela Victor Mercante",
+   "codpro": "12",
+   "canton": "VINCES"
+  },
+  {
    "hora": "2026-11-11T06:32:40.471Z",
    "cambio": "implementado",
    "id": "IMPLEMENTADO_29",

@@ -1,10 +1,10 @@
 {
- "generado": "2026-11-11T06:32:40.471Z",
+ "generado": "2026-11-11T19:39:38.009Z",
  "fuente": "SNGR · Visor Alístate Ecuador – Evento El Niño",
  "fuente_url": "https://script.google.com/macros/s/AKfycbz6HA9kKLeksqm49YYPD7i3A40mMK6JwmoDc50vaiv4myVTk0lFYswqnE4IbJXmr9Lm/exec",
  "procesamiento": "PRIMICIAS",
  "descripcion": "Alojamientos temporales implementados (abiertos) por la SNGR. desde: fecha de implementación. personas/familias: cifra de la SNGR. canton/parroquia: CNE 2025 (punto en polígono). La SNGR no publica si están llenos.",
- "total": 9,
+ "total": 10,
  "albergues": [
   {
    "id": "IMPLEMENTADO_6",
@@ -103,6 +103,20 @@
    "personas": 40,
    "familias": 10,
    "desde": "2026-10-16"
+  },
+  {
+   "id": "IMPLEMENTADO_23",
+   "nombre": "Antonio Sotomayor-6 de octubre y 13 enero, Escuela Victor Mercante",
+   "tipo": "implementado",
+   "codpro": "12",
+   "codpar": "0140",
+   "canton": "VINCES",
+   "parroquia": "ANTONIO SOTOMAYOR",
+   "lat": -1.641242,
+   "lon": -79.801567,
+   "personas": 41,
+   "familias": 10,
+   "desde": "2026-09-25"
   },
   {
    "id": "IMPLEMENTADO_29",
