@@ -2,6 +2,38 @@
  "descripcion": "Aperturas (implementado) y retiros de alojamientos temporales de la SNGR, del más reciente al más antiguo.",
  "cambios": [
   {
+   "hora": "2026-11-11T06:32:40.471Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_29",
+   "nombre": "Sector: Cdla. Jaime Roldos Calle 22 Este y 3ra y 4ta Norte",
+   "codpro": "03",
+   "canton": "LA TRONCAL"
+  },
+  {
+   "hora": "2026-11-11T06:32:40.471Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_35",
+   "nombre": "U. E. DR. JOSÉ RICARDO CHIRIBOGA VILLAGÓMEZ",
+   "codpro": "17",
+   "canton": "MEJIA"
+  },
+  {
+   "hora": "2026-11-11T06:32:40.471Z",
+   "cambio": "retirado",
+   "id": "IMPLEMENTADO_30",
+   "nombre": "Sector: Cdla. Jaime Roldos Calle 22 Este y 3ra y 4ta Norte",
+   "codpro": "03",
+   "canton": "LA TRONCAL"
+  },
+  {
+   "hora": "2026-11-11T06:32:40.471Z",
+   "cambio": "retirado",
+   "id": "IMPLEMENTADO_36",
+   "nombre": "U. E. DR. JOSÉ RICARDO CHIRIBOGA VILLAGÓMEZ",
+   "codpro": "17",
+   "canton": "MEJIA"
+  },
+  {
    "hora": "2026-11-10T19:47:19.436Z",
    "cambio": "retirado",
    "id": "IMPLEMENTADO_17",
