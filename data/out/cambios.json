@@ -2,6 +2,54 @@
  "descripcion": "Aperturas (implementado) y retiros de alojamientos temporales de la SNGR, del más reciente al más antiguo.",
  "cambios": [
   {
+   "hora": "2026-11-12T19:59:41.367Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_24",
+   "nombre": "Cdla. 5 de Junio/ UNIDAD EDUCATIVA TENIENTE HUGO ORTIZ,",
+   "codpro": "09",
+   "canton": "MILAGRO"
+  },
+  {
+   "hora": "2026-11-12T19:59:41.367Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_25",
+   "nombre": "El Peñón frente al camal municipal",
+   "codpro": "02",
+   "canton": "GUARANDA"
+  },
+  {
+   "hora": "2026-11-12T19:59:41.367Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_27",
+   "nombre": "Barrio Valdivia; 18 de agosto y Virgilio Drouet",
+   "codpro": "24",
+   "canton": "SANTA ELENA"
+  },
+  {
+   "hora": "2026-11-12T19:59:41.367Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_34",
+   "nombre": "U. E. DR. JOSÉ RICARDO CHIRIBOGA VILLAGÓMEZ",
+   "codpro": "17",
+   "canton": "MEJIA"
+  },
+  {
+   "hora": "2026-11-12T19:59:41.367Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_5",
+   "nombre": "Avenida José Julián Andrade y río Santiago / Centro de Reentrenamiento Cuerpo de Bomberos de Montúfar",
+   "codpro": "04",
+   "canton": "MONTUFAR"
+  },
+  {
+   "hora": "2026-11-12T19:59:41.367Z",
+   "cambio": "retirado",
+   "id": "IMPLEMENTADO_35",
+   "nombre": "U. E. DR. JOSÉ RICARDO CHIRIBOGA VILLAGÓMEZ",
+   "codpro": "17",
+   "canton": "MEJIA"
+  },
+  {
    "hora": "2026-11-11T19:39:38.009Z",
    "cambio": "implementado",
    "id": "IMPLEMENTADO_23",

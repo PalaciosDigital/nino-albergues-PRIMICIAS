@@ -1,11 +1,25 @@
 {
- "generado": "2026-11-12T07:17:32.382Z",
+ "generado": "2026-11-12T19:59:41.367Z",
  "fuente": "SNGR · Visor Alístate Ecuador – Evento El Niño",
  "fuente_url": "https://script.google.com/macros/s/AKfycbz6HA9kKLeksqm49YYPD7i3A40mMK6JwmoDc50vaiv4myVTk0lFYswqnE4IbJXmr9Lm/exec",
  "procesamiento": "PRIMICIAS",
  "descripcion": "Alojamientos temporales implementados (abiertos) por la SNGR. desde: fecha de implementación. personas/familias: cifra de la SNGR. canton/parroquia: CNE 2025 (punto en polígono). La SNGR no publica si están llenos.",
- "total": 10,
+ "total": 14,
  "albergues": [
+  {
+   "id": "IMPLEMENTADO_5",
+   "nombre": "Avenida José Julián Andrade y río Santiago / Centro de Reentrenamiento Cuerpo de Bomberos de Montúfar",
+   "tipo": "implementado",
+   "codpro": "04",
+   "codpar": "5970",
+   "canton": "MONTUFAR",
+   "parroquia": "SAN JOSE",
+   "lat": 0.580345,
+   "lon": -77.823494,
+   "personas": 4,
+   "familias": 11,
+   "desde": "2026-11-11"
+  },
   {
    "id": "IMPLEMENTADO_6",
    "nombre": "Unidad Educativa Margarita Cortes",
@@ -119,6 +133,48 @@
    "desde": "2026-09-25"
   },
   {
+   "id": "IMPLEMENTADO_24",
+   "nombre": "Cdla. 5 de Junio/ UNIDAD EDUCATIVA TENIENTE HUGO ORTIZ,",
+   "tipo": "implementado",
+   "codpro": "09",
+   "codpar": "5660",
+   "canton": "MILAGRO",
+   "parroquia": "MILAGRO",
+   "lat": -2.184341,
+   "lon": -79.618998,
+   "personas": 241,
+   "familias": 61,
+   "desde": "2026-11-05"
+  },
+  {
+   "id": "IMPLEMENTADO_25",
+   "nombre": "El Peñón frente al camal municipal",
+   "tipo": "implementado",
+   "codpro": "02",
+   "codpar": "5375",
+   "canton": "GUARANDA",
+   "parroquia": "GABRIEL I VEINTIMILLA",
+   "lat": -1.599291,
+   "lon": -78.99648,
+   "personas": 8,
+   "familias": 35,
+   "desde": "2026-10-16"
+  },
+  {
+   "id": "IMPLEMENTADO_27",
+   "nombre": "Barrio Valdivia; 18 de agosto y Virgilio Drouet",
+   "tipo": "implementado",
+   "codpro": "24",
+   "codpar": "6040",
+   "canton": "SANTA ELENA",
+   "parroquia": "SANTA ELENA",
+   "lat": -2.22686,
+   "lon": -80.854764,
+   "personas": 24,
+   "familias": 6,
+   "desde": "2026-10-16"
+  },
+  {
    "id": "IMPLEMENTADO_29",
    "nombre": "Sector: Cdla. Jaime Roldos Calle 22 Este y 3ra y 4ta Norte",
    "tipo": "implementado",
@@ -133,7 +189,7 @@
    "desde": "2026-10-22"
   },
   {
-   "id": "IMPLEMENTADO_35",
+   "id": "IMPLEMENTADO_34",
    "nombre": "U. E. DR. JOSÉ RICARDO CHIRIBOGA VILLAGÓMEZ",
    "tipo": "implementado",
    "codpro": "17",
