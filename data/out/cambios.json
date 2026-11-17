@@ -2,6 +2,14 @@
  "descripcion": "Aperturas (implementado) y retiros de alojamientos temporales de la SNGR, del más reciente al más antiguo.",
  "cambios": [
   {
+   "hora": "2026-11-17T20:59:52.163Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_4",
+   "nombre": "Vía San Luis y Vía izquierda SECAL /Casa Comunal Barcelona",
+   "codpro": "10",
+   "canton": "OTAVALO"
+  },
+  {
    "hora": "2026-11-17T07:59:27.842Z",
    "cambio": "implementado",
    "id": "IMPLEMENTADO_25",

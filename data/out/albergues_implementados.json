@@ -1,11 +1,25 @@
 {
- "generado": "2026-11-17T07:59:27.842Z",
+ "generado": "2026-11-17T20:59:52.163Z",
  "fuente": "SNGR · Visor Alístate Ecuador – Evento El Niño",
  "fuente_url": "https://script.google.com/macros/s/AKfycbz6HA9kKLeksqm49YYPD7i3A40mMK6JwmoDc50vaiv4myVTk0lFYswqnE4IbJXmr9Lm/exec",
  "procesamiento": "PRIMICIAS",
  "descripcion": "Alojamientos temporales implementados (abiertos) por la SNGR. desde: fecha de implementación. personas/familias: cifra de la SNGR. canton/parroquia: CNE 2025 (punto en polígono). La SNGR no publica si están llenos.",
- "total": 14,
+ "total": 15,
  "albergues": [
+  {
+   "id": "IMPLEMENTADO_4",
+   "nombre": "Vía San Luis y Vía izquierda SECAL /Casa Comunal Barcelona",
+   "tipo": "implementado",
+   "codpro": "10",
+   "codpar": "3810",
+   "canton": "OTAVALO",
+   "parroquia": "SELVA ALEGRE",
+   "lat": 0.247457,
+   "lon": -78.576943,
+   "personas": 370,
+   "familias": 92,
+   "desde": "2026-11-18"
+  },
   {
    "id": "IMPLEMENTADO_5",
    "nombre": "Avenida José Julián Andrade y río Santiago / Centro de Reentrenamiento Cuerpo de Bomberos de Montúfar",
