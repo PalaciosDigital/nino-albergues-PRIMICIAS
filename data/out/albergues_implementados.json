@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T20:59:52.163Z",
+ "generado": "2026-11-18T07:35:52.247Z",
  "fuente": "SNGR · Visor Alístate Ecuador – Evento El Niño",
  "fuente_url": "https://script.google.com/macros/s/AKfycbz6HA9kKLeksqm49YYPD7i3A40mMK6JwmoDc50vaiv4myVTk0lFYswqnE4IbJXmr9Lm/exec",
  "procesamiento": "PRIMICIAS",
@@ -147,20 +147,6 @@
    "desde": "2026-09-25"
   },
   {
-   "id": "IMPLEMENTADO_24",
-   "nombre": "Cdla. 5 de Junio/ UNIDAD EDUCATIVA TENIENTE HUGO ORTIZ,",
-   "tipo": "implementado",
-   "codpro": "09",
-   "codpar": "5660",
-   "canton": "MILAGRO",
-   "parroquia": "MILAGRO",
-   "lat": -2.184341,
-   "lon": -79.618998,
-   "personas": 241,
-   "familias": 61,
-   "desde": "2026-11-05"
-  },
-  {
    "id": "IMPLEMENTADO_25",
    "nombre": "El Peñón frente al camal municipal",
    "tipo": "implementado",
@@ -215,6 +201,20 @@
    "personas": 20,
    "familias": 5,
    "desde": "2026-10-15"
+  },
+  {
+   "id": "IMPLEMENTADO_35",
+   "nombre": "CAMI PASCUALES-Calle 28 N-O y Palenque, Guayaquil, Ecuador",
+   "tipo": "implementado",
+   "codpro": "09",
+   "codpar": "6405",
+   "canton": "GUAYAQUIL",
+   "parroquia": "PASCUALES",
+   "lat": -2.06592,
+   "lon": -79.927457,
+   "personas": 96,
+   "familias": 24,
+   "desde": "2026-11-13"
   }
  ]
 }

@@ -2,6 +2,22 @@
  "descripcion": "Aperturas (implementado) y retiros de alojamientos temporales de la SNGR, del más reciente al más antiguo.",
  "cambios": [
   {
+   "hora": "2026-11-18T07:35:52.247Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_35",
+   "nombre": "CAMI PASCUALES-Calle 28 N-O y Palenque, Guayaquil, Ecuador",
+   "codpro": "09",
+   "canton": "GUAYAQUIL"
+  },
+  {
+   "hora": "2026-11-18T07:35:52.247Z",
+   "cambio": "retirado",
+   "id": "IMPLEMENTADO_24",
+   "nombre": "Cdla. 5 de Junio/ UNIDAD EDUCATIVA TENIENTE HUGO ORTIZ,",
+   "codpro": "09",
+   "canton": "MILAGRO"
+  },
+  {
    "hora": "2026-11-17T20:59:52.163Z",
    "cambio": "implementado",
    "id": "IMPLEMENTADO_4",
