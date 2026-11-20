@@ -2,6 +2,70 @@
  "descripcion": "Aperturas (implementado) y retiros de alojamientos temporales de la SNGR, del más reciente al más antiguo.",
  "cambios": [
   {
+   "hora": "2026-11-20T07:23:09.665Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_17",
+   "nombre": "Sector Culacusig/Centro Gerontológico Culacusig",
+   "codpro": "05",
+   "canton": "SIGCHOS"
+  },
+  {
+   "hora": "2026-11-20T07:23:09.665Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_20",
+   "nombre": "10 de Agosto Una sola calle/Centro Civico Ciudad Alfaro",
+   "codpro": "13",
+   "canton": "MONTECRISTI"
+  },
+  {
+   "hora": "2026-11-20T07:23:09.665Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_24",
+   "nombre": "CAMI PASCUALES-Calle 28 N-O y Palenque, Guayaquil, Ecuador",
+   "codpro": "09",
+   "canton": "GUAYAQUIL"
+  },
+  {
+   "hora": "2026-11-20T07:23:09.665Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_30",
+   "nombre": "Sector: Cdla. Jaime Roldos Calle 22 Este y 3ra y 4ta Norte",
+   "codpro": "03",
+   "canton": "LA TRONCAL"
+  },
+  {
+   "hora": "2026-11-20T07:23:09.665Z",
+   "cambio": "retirado",
+   "id": "IMPLEMENTADO_18",
+   "nombre": "Sector Culacusig/Centro Gerontológico Culacusig",
+   "codpro": "05",
+   "canton": "SIGCHOS"
+  },
+  {
+   "hora": "2026-11-20T07:23:09.665Z",
+   "cambio": "retirado",
+   "id": "IMPLEMENTADO_23",
+   "nombre": "Antonio Sotomayor-6 de octubre y 13 enero, Escuela Victor Mercante",
+   "codpro": "12",
+   "canton": "VINCES"
+  },
+  {
+   "hora": "2026-11-20T07:23:09.665Z",
+   "cambio": "retirado",
+   "id": "IMPLEMENTADO_29",
+   "nombre": "Sector: Cdla. Jaime Roldos Calle 22 Este y 3ra y 4ta Norte",
+   "codpro": "03",
+   "canton": "LA TRONCAL"
+  },
+  {
+   "hora": "2026-11-20T07:23:09.665Z",
+   "cambio": "retirado",
+   "id": "IMPLEMENTADO_34",
+   "nombre": "U. E. DR. JOSÉ RICARDO CHIRIBOGA VILLAGÓMEZ",
+   "codpro": "17",
+   "canton": "MEJIA"
+  },
+  {
    "hora": "2026-11-18T07:35:52.247Z",
    "cambio": "implementado",
    "id": "IMPLEMENTADO_35",
