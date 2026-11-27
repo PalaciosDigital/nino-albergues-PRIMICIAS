@@ -2,6 +2,126 @@
  "descripcion": "Aperturas (implementado) y retiros de alojamientos temporales de la SNGR, del más reciente al más antiguo.",
  "cambios": [
   {
+   "hora": "2026-11-27T08:41:59.074Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_10",
+   "nombre": "Calle Carlos Muñoz Vinueza en el sector Yanayuyo/Coliseo Municipal Pallatanga",
+   "codpro": "06",
+   "canton": "PALLATANGA"
+  },
+  {
+   "hora": "2026-11-27T08:41:59.074Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_15",
+   "nombre": "Barrio 10 de agosto/Casa de Diosesis de Riobamba",
+   "codpro": "06",
+   "canton": "CUMANDA"
+  },
+  {
+   "hora": "2026-11-27T08:41:59.074Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_17",
+   "nombre": "Sector Culacusig/Centro Gerontológico Culacusig",
+   "codpro": "05",
+   "canton": "SIGCHOS"
+  },
+  {
+   "hora": "2026-11-27T08:41:59.074Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_20",
+   "nombre": "10 de Agosto Una sola calle/Centro Civico Ciudad Alfaro",
+   "codpro": "13",
+   "canton": "MONTECRISTI"
+  },
+  {
+   "hora": "2026-11-27T08:41:59.074Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_21",
+   "nombre": "ESCUELA DE FORMACION DEL CB DE SANTO DOMINGO",
+   "codpro": "23",
+   "canton": "SANTO DOMINGO"
+  },
+  {
+   "hora": "2026-11-27T08:41:59.074Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_22",
+   "nombre": "Antonio Sotomayor-6 de octubre y 13 enero, Escuela Victor Mercante",
+   "codpro": "12",
+   "canton": "VINCES"
+  },
+  {
+   "hora": "2026-11-27T08:41:59.074Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_24",
+   "nombre": "CAMI PASCUALES-Calle 28 N-O y Palenque, Guayaquil, Ecuador",
+   "codpro": "09",
+   "canton": "GUAYAQUIL"
+  },
+  {
+   "hora": "2026-11-27T08:41:59.074Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_25",
+   "nombre": "El Peñón frente al camal municipal",
+   "codpro": "02",
+   "canton": "GUARANDA"
+  },
+  {
+   "hora": "2026-11-27T08:41:59.074Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_27",
+   "nombre": "Barrio Valdivia; 18 de agosto y Virgilio Drouet",
+   "codpro": "24",
+   "canton": "SANTA ELENA"
+  },
+  {
+   "hora": "2026-11-27T08:41:59.074Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_30",
+   "nombre": "Sector: Cdla. Jaime Roldos Calle 22 Este y 3ra y 4ta Norte",
+   "codpro": "03",
+   "canton": "LA TRONCAL"
+  },
+  {
+   "hora": "2026-11-27T08:41:59.074Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_35",
+   "nombre": "U. E. DR. JOSÉ RICARDO CHIRIBOGA VILLAGÓMEZ",
+   "codpro": "17",
+   "canton": "MEJIA"
+  },
+  {
+   "hora": "2026-11-27T08:41:59.074Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_4",
+   "nombre": "Vía San Luis y Vía izquierda SECAL /Casa Comunal Barcelona",
+   "codpro": "10",
+   "canton": "OTAVALO"
+  },
+  {
+   "hora": "2026-11-27T08:41:59.074Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_5",
+   "nombre": "Avenida José Julián Andrade y río Santiago / Centro de Reentrenamiento Cuerpo de Bomberos de Montúfar",
+   "codpro": "04",
+   "canton": "MONTUFAR"
+  },
+  {
+   "hora": "2026-11-27T08:41:59.074Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_6",
+   "nombre": "Unidad Educativa Margarita Cortes",
+   "codpro": "08",
+   "canton": "ESMERALDAS"
+  },
+  {
+   "hora": "2026-11-27T08:41:59.074Z",
+   "cambio": "implementado",
+   "id": "IMPLEMENTADO_9",
+   "nombre": "Casa de Cursos - Vicariato Apostólico de Aguarico",
+   "codpro": "22",
+   "canton": "FCO. DE ORELLANA"
+  },
+  {
    "hora": "2026-11-25T21:45:30.128Z",
    "cambio": "retirado",
    "id": "IMPLEMENTADO_10",

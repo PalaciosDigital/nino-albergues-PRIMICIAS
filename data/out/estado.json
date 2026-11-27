@@ -1,8 +1,8 @@
 {
- "generado": "2026-11-26T21:38:37.424Z",
- "total": 2863,
- "implementados": 0,
- "calificados": 2863,
+ "generado": "2026-11-27T08:41:59.074Z",
+ "total": 2879,
+ "implementados": 15,
+ "calificados": 2864,
  "fuera_de_parroquias": 6,
- "cambios_esta_ejecucion": 0
+ "cambios_esta_ejecucion": 15
 }
